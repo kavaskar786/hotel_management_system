@@ -17,10 +17,23 @@ steps
 </pre>
 
 loading page:
-login/signup/signin/admin page:
-home:
-manageroom:
-checkin:
-checkout:
+<p><img src="[https://komarev.com/ghpvc/?username=kavaskar786&label=Profile%20views&color=0e75b6&style=flat](https://christuniversitybang-my.sharepoint.com/:i:/g/personal/kavaskar_s_mca_christuniversity_in/EWmwaRAFlSdOj64LIASWC9gBoDD14VLJDiMVwO4F_BDy6g?e=Tqkoit)" alt="loading page" /></p>
 
+login/signup/signin/admin page:
+<p><img src="https://komarev.com/ghpvc/?username=kavaskar786&label=Profile%20views&color=0e75b6&style=flat" alt="login/signup/signin/admin page" /></p>
+
+home page:
+<p><img src="https://komarev.com/ghpvc/?username=kavaskar786&label=Profile%20views&color=0e75b6&style=flat" alt="home page" /></p>
+
+manageroom page:
+<p><img src="https://komarev.com/ghpvc/?username=kavaskar786&label=Profile%20views&color=0e75b6&style=flat" alt="manageroom page" /></p>
+
+checkin page:
+<p><img src="https://komarev.com/ghpvc/?username=kavaskar786&label=Profile%20views&color=0e75b6&style=flat" alt="checkin page" /></p>
+
+checkout page:
+<p><img src="https://komarev.com/ghpvc/?username=kavaskar786&label=Profile%20views&color=0e75b6&style=flat" alt="checkout page" /></p>
+
+bill printing page:
+<p><img src="https://komarev.com/ghpvc/?username=kavaskar786&label=Profile%20views&color=0e75b6&style=flat" alt="bill printing page" /></p>
 

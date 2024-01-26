@@ -43,3 +43,7 @@ checkout page:
 bill printing page:
 <p><img src="https://raw.githubusercontent.com/kavaskar786/proj_images/main/HMS_proj/billing.png"/></p>
 
+
+
+<center>Thank you and give one star you like this project🤞🤞</center>
+

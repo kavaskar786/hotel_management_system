@@ -16,24 +16,30 @@ steps
 4.run the home.java to see the magic.....🔥🔥😂.
 </pre>
 
+<pre>
+  admin login:
+  username - admin
+  pass - admin
+</pre>
+
 loading page:
 <p><img src="https://raw.githubusercontent.com/kavaskar786/proj_images/main/HMS_proj/loading.png"/></p>
 
 login/signup/signin/admin page:
-<p><img src="https://komarev.com/ghpvc/?username=kavaskar786&label=Profile%20views&color=0e75b6&style=flat" alt="login/signup/signin/admin page" /></p>
+<p><img src="https://raw.githubusercontent.com/kavaskar786/proj_images/main/HMS_proj/login.png"/></p>
 
 home page:
-<p><img src="https://komarev.com/ghpvc/?username=kavaskar786&label=Profile%20views&color=0e75b6&style=flat" alt="home page" /></p>
+<p><img src="https://raw.githubusercontent.com/kavaskar786/proj_images/main/HMS_proj/home.png"/></p>
 
 manageroom page:
-<p><img src="https://komarev.com/ghpvc/?username=kavaskar786&label=Profile%20views&color=0e75b6&style=flat" alt="manageroom page" /></p>
+<p><img src="https://raw.githubusercontent.com/kavaskar786/proj_images/main/HMS_proj/manage_room.png"/></p>
 
 checkin page:
-<p><img src="https://komarev.com/ghpvc/?username=kavaskar786&label=Profile%20views&color=0e75b6&style=flat" alt="checkin page" /></p>
+<p><img src="https://raw.githubusercontent.com/kavaskar786/proj_images/main/HMS_proj/checkin.png"/></p>
 
 checkout page:
-<p><img src="https://komarev.com/ghpvc/?username=kavaskar786&label=Profile%20views&color=0e75b6&style=flat" alt="checkout page" /></p>
+<p><img src="https://raw.githubusercontent.com/kavaskar786/proj_images/main/HMS_proj/checkout.png"/></p>
 
 bill printing page:
-<p><img src="https://komarev.com/ghpvc/?username=kavaskar786&label=Profile%20views&color=0e75b6&style=flat" alt="bill printing page" /></p>
+<p><img src="https://raw.githubusercontent.com/kavaskar786/proj_images/main/HMS_proj/billing.png"/></p>
 
